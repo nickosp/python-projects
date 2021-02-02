@@ -9,6 +9,8 @@ Practice Python with mini projects & games
 -Python
 -VS Code
 
-## before getting started
+## Before getting started
 -Fork & Clone
 -Pipenv Install
+
+## Projects/Games
