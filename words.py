@@ -1,5 +1,4 @@
-words = [
-        "aback",
+words = ["aback",
         "abaft",
         "abandoned",
         "abashed",
@@ -2464,6 +2463,4 @@ words = [
         "zippy",
         "zonked",
         "zoo",
-        "zoom"
-    ]
-
+        "zoom"]
